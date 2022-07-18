@@ -1,24 +1,17 @@
-# vue-todo
+# Vue.js로 만든 ToDo App
 
-## Project setup
-```
-npm install
-```
+### 스크린샷
+![](https://github.com/sj50179/vue-todo/blob/main/screenshot/1.png)
+![](https://github.com/sj50179/vue-todo/blob/main/screenshot/2.png)
+
+### 동작화면
+![](https://github.com/sj50179/vue-todo/blob/main/screenshot/todoApp.gif)
 
 ### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+App running at:
+  - Local:   http://localhost:8080/
